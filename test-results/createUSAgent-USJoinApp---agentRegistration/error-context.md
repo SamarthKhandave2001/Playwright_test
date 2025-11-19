@@ -1,0 +1,173 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e5]:
+    - generic [ref=e7]:
+      - button "" [ref=e8] [cursor=pointer]:
+        - generic [ref=e9]: 
+      - menu [ref=e12]:
+        - menuitem [ref=e13] [cursor=pointer]:
+          - generic [ref=e14]: 
+          - text: Home
+        - menuitem [ref=e15] [cursor=pointer]:
+          - generic [ref=e16]: 
+          - text: My Documents
+        - menuitem [ref=e17] [cursor=pointer]:
+          - generic [ref=e18]: 
+          - text: Log Out
+    - generic [ref=e21]:
+      - generic [ref=e24]:
+        - generic [ref=e30]: "Information: You are working on the Acceptance-Environment [30.00] | Version: 2025.11.1.8953 (11/5/2025, 10:42 PM)"
+        - table [ref=e34]:
+          - rowgroup [ref=e38]:
+            - row "Welcome Back, Tomashi Retopa! PROFILE" [ref=e39]:
+              - cell "Welcome Back, Tomashi Retopa!" [ref=e40]
+              - cell "PROFILE" [ref=e41]:
+                - button "PROFILE" [active] [ref=e42] [cursor=pointer]
+      - generic [ref=e47]:
+        - table [ref=e51]:
+          - rowgroup [ref=e54]:
+            - row "eXp Join Process" [ref=e55]:
+              - cell "eXp Join Process" [ref=e56]:
+                - table [ref=e57]:
+                  - rowgroup [ref=e60]:
+                    - row "eXp Join Process" [ref=e61]:
+                      - cell "eXp Join Process" [ref=e62]
+            - row [ref=e63]:
+              - cell [ref=e64]
+            - row "1 Application & ICA Agent 2 License Verification eXp Step 3 Broker Approval eXp Step 4 Document Review eXp Step 5 Transfer License Agent 6 Become Active Agent eXp Step" [ref=e65]:
+              - cell "1 Application & ICA Agent 2 License Verification eXp Step 3 Broker Approval eXp Step 4 Document Review eXp Step 5 Transfer License Agent 6 Become Active Agent eXp Step" [ref=e66]:
+                - generic [ref=e68]:
+                  - list:
+                    - listitem "Application & ICA":
+                      - button "1 Application & ICA Agent":
+                        - generic: "1"
+                        - generic:
+                          - heading "Application & ICA" [level=5]
+                          - heading "Agent" [level=6]
+                    - listitem "License Verification":
+                      - button "2 License Verification eXp Step":
+                        - generic: "2"
+                        - generic:
+                          - heading "License Verification" [level=5]
+                          - heading "eXp Step" [level=6]
+                    - listitem "Broker Approval":
+                      - button "3 Broker Approval eXp Step":
+                        - generic: "3"
+                        - generic:
+                          - heading "Broker Approval" [level=5]
+                          - heading "eXp Step" [level=6]
+                    - listitem "Document Review":
+                      - button "4 Document Review eXp Step":
+                        - generic: "4"
+                        - generic:
+                          - heading "Document Review" [level=5]
+                          - heading "eXp Step" [level=6]
+                    - listitem "Transfer License":
+                      - button "5 Transfer License Agent":
+                        - generic: "5"
+                        - generic:
+                          - heading "Transfer License" [level=5]
+                          - heading "Agent" [level=6]
+                    - listitem "Become Active Agent":
+                      - button "6 Become Active Agent eXp Step":
+                        - generic: "6"
+                        - generic:
+                          - heading "Become Active Agent" [level=5]
+                          - heading "eXp Step" [level=6]
+        - table [ref=e72]:
+          - rowgroup [ref=e75]:
+            - row "What's Next?" [ref=e76]:
+              - cell "What's Next?" [ref=e77]
+            - row "Status Task Not Started Complete eXp Join Application & Sign ICA Let's Go! Optional Upload Documents (if requested) Upload" [ref=e78]:
+              - cell "Status Task Not Started Complete eXp Join Application & Sign ICA Let's Go! Optional Upload Documents (if requested) Upload" [ref=e79]:
+                - generic [ref=e81]:
+                  - table [ref=e82]:
+                    - rowgroup [ref=e87]:
+                      - row "Status Task" [ref=e88]:
+                        - cell "Status" [ref=e89]
+                        - cell "Task" [ref=e90]
+                        - cell [ref=e91]
+                  - table [ref=e93]:
+                    - rowgroup [ref=e98]:
+                      - row "Not Started Complete eXp Join Application & Sign ICA Let's Go!" [ref=e99]:
+                        - cell "Not Started" [ref=e100]
+                        - cell "Complete eXp Join Application & Sign ICA" [ref=e101]
+                        - cell "Let's Go!" [ref=e102]:
+                          - button "Let's Go!" [ref=e103] [cursor=pointer]
+                - table [ref=e106]:
+                  - rowgroup [ref=e111]:
+                    - row "Optional Upload Documents (if requested) Upload" [ref=e112]:
+                      - cell "Optional" [ref=e113]
+                      - cell "Upload Documents (if requested)" [ref=e114]
+                      - cell "Upload" [ref=e115]:
+                        - button "Upload" [ref=e116] [cursor=pointer]:
+                          - generic [ref=e117]: 
+                          - text: Upload
+        - generic [ref=e119]:
+          - generic [ref=e121]:
+            - table [ref=e122]:
+              - rowgroup [ref=e125]:
+                - row "Your Personal Code" [ref=e126]:
+                  - cell "Your Personal Code" [ref=e127]
+            - text: 0A749FE100
+          - generic [ref=e128]:
+            - table [ref=e130]:
+              - rowgroup [ref=e133]:
+                - row "Onboarding Status Tracker" [ref=e134]:
+                  - cell "Onboarding Status Tracker" [ref=e135]
+            - iframe [ref=e139]:
+              - generic [ref=f1e7]:
+                - heading "Onboarding Status" [level=1] [ref=f1e8]
+                - heading "Please enter your personal code here for a current onboarding status." [level=3] [ref=f1e9]
+                - generic [ref=f1e11]:
+                  - textbox [ref=f1e12]
+                  - button "RETRIEVE" [ref=f1e13] [cursor=pointer]:
+                    - generic [ref=f1e14]: RETRIEVE
+        - generic [ref=e146]:
+          - generic [ref=e148]:
+            - table [ref=e149]:
+              - rowgroup [ref=e152]:
+                - row "Visit our eXplore Guide" [ref=e153]:
+                  - cell "Visit our eXplore Guide" [ref=e154]
+            - button [ref=e155] [cursor=pointer]
+          - generic [ref=e157]:
+            - table [ref=e158]:
+              - rowgroup [ref=e161]:
+                - row "Join Checklist - What to Expect" [ref=e162]:
+                  - cell "Join Checklist - What to Expect" [ref=e163]
+            - button [ref=e164] [cursor=pointer]
+          - generic [ref=e166]:
+            - table [ref=e167]:
+              - rowgroup [ref=e170]:
+                - row "Technology Requirements" [ref=e171]:
+                  - cell "Technology Requirements" [ref=e172]
+            - button [ref=e173] [cursor=pointer]
+          - generic [ref=e175]:
+            - table [ref=e176]:
+              - rowgroup [ref=e179]:
+                - row "Need help? Contact Us!" [ref=e180]:
+                  - cell "Need help? Contact Us!" [ref=e181]
+            - button [ref=e182] [cursor=pointer]
+  - generic:
+    - generic [ref=e184]:
+      - paragraph [ref=e186]:
+        - text: We use
+        - link "cookies" [ref=e187] [cursor=pointer]:
+          - /url: https://allaboutcookies.org/
+        - text: to enhance your browsing experience, analyze your activity, understand your preferences, improve our services, and deliver relevant ads. By making your cookie choice, you also confirm your acknowledgement and consent to our
+        - link "Terms" [ref=e188] [cursor=pointer]:
+          - /url: https://expworldholdings.com/terms-of-service/
+        - text: and
+        - link "Privacy Policy" [ref=e189] [cursor=pointer]:
+          - /url: https://expworldholdings.com/privacy-policy/#:~:text=Types%20of%20Information%20Collected
+        - text: .
+      - generic [ref=e190]:
+        - button "Accept All" [ref=e191] [cursor=pointer]
+        - button "Reject" [ref=e192] [cursor=pointer]
+        - button "Customize" [ref=e193] [cursor=pointer]
+    - complementary "Open Cookie Preferences Modal" [ref=e194]:
+      - button "Cookie Preferences, opens a dedicated popup modal window" [ref=e195] [cursor=pointer]:
+        - img "Cookie Preferences" [ref=e196]
+```
